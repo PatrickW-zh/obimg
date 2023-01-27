@@ -1,2 +1,2 @@
 # obimg
-# private repositorie for uploading images via picgo.
+# My PRIVATE repositorie for uploading images via picgo.
